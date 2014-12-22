@@ -1,0 +1,9 @@
+{
+	"name": "d_simplex",
+	"description": "Nelder-Mead Simplex for the D Programming Language.",
+	"authors": ["Laeeth Isharc","Michael F. Hutt"],
+	"homepage": "https://github.com/Laeeth/d_simplex",
+	"license": "Boost-1.0",
+	"dependencies": {
+	}
+}
